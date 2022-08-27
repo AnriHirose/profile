@@ -1,0 +1,36 @@
+@charset "UTF-8";
+/* CSS Document */
+html {
+  font-size: 62.5%; /* 16px相当 * 62.5% = 10px相当 */
+  width: 100%;
+  box-sizing: border-box;
+}
+body {
+  color: #333; /* RGB */
+  font-family: "Baskerville", "游明朝体", "Yu Mincho", YuMincho, serif;
+  font-weight: 500;
+  font-size: 1.6rem;
+  line-height: 1.5;
+  text-align: center;
+}
+section h2 {
+  font-size: 2.4rem;
+}
+a:hover {
+  opacity: 0.5;
+}
+img {
+  max-width: 100%;
+  height: auto;
+  vertical-align: bottom;
+}
+.none {
+  display: none;
+}
+.wrapper{
+  overflow: hidden;
+}
+.none {
+  display: none;
+  
+}
